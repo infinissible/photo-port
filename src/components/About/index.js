@@ -11,6 +11,7 @@ function About() {
         style={{ width: '100%' }}
         alt="cover"
       />
+      <div className="my-2"></div>
     </section>
   );
 }
